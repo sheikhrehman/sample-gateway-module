@@ -21,6 +21,8 @@ module for WHMCS be structured and implemented.
 For more information, please refer to the documentation at:
 https://developers.whmcs.com/payment-gateways/
 
+important link: https://developers.whmcs.com/payment-gateways/third-party-gateway/
+
 ## Recommended Module Content ##
 
 The recommended structure of a third party gateway module is as follows.
